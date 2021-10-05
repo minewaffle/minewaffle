@@ -1,15 +1,15 @@
-### Hi there, I'm minewaffle [computer science][graduate] 👋
+### Hi there, I'm minewaffle [high school][student] 
 
 [![Instagram handle](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter handle](https://img.shields.io/twitter/follow/minewafflexd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fminewaffle&screen_name=minewafflexd)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a python dev, gamer and a cybersec guy!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just launched my first tool: [dedip, find info of an IP Address!][dedphile]!
+- 🌱 I’m currently in highschool🤣
+- 👯 I’m looking to collaborate with other python related content.
+- 🥅 2021 Goals: Finish on dedip project.
+- ⚡ Fun fact: I love to draw and play games.
 
 ### Connect with me:
 
